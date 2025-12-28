@@ -1,5 +1,8 @@
 # Leetcode
 <!---LeetCode Topics Start-->
+A collection of my LeetCode solutions written while practicing DSA concepts.
+This repository reflects my learning journey and continuous improvement in problem-solving.
+
 # LeetCode Topics
 ## String
 |  |
