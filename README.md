@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/srishtikapoor0240/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/srishtikapoor0240/Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishtikapoor0240/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -70,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/srishtikapoor0240/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/srishtikapoor0240/Leetcode/tree/master/0326-power-of-three) |
