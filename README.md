@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/srishtikapoor0240/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/srishtikapoor0240/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/srishtikapoor0240/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/srishtikapoor0240/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/srishtikapoor0240/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/srishtikapoor0240/Leetcode/tree/master/0326-power-of-three) |
