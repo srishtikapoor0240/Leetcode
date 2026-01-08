@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/srishtikapoor0240/Leetcode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishtikapoor0240/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +110,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishtikapoor0240/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
 ## Enumeration
