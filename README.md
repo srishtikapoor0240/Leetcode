@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/srishtikapoor0240/Leetcode/tree/master/0058-length-of-last-word) |
+| [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
@@ -153,6 +154,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
 ## Tree
 |  |
 | ------- |
