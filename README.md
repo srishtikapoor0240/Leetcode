@@ -12,6 +12,7 @@
 | [1143-longest-common-subsequence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/srishtikapoor0240/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/srishtikapoor0240/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,6 +163,7 @@
 | [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/srishtikapoor0240/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
 | ------- |
