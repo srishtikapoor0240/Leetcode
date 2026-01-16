@@ -3,8 +3,6 @@ class Solution {
         String str=s1+" "+s2;
         List<String>unique= new ArrayList<>();
         String words[]=str.split(" ");
-
-        int p=0;
         for(int i=0;i<words.length;i++)
         {
             int c=0;
