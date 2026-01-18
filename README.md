@@ -12,6 +12,7 @@
 | [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1143-longest-common-subsequence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1668-maximum-repeating-substring](https://github.com/srishtikapoor0240/Leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
