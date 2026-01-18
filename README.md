@@ -137,6 +137,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Matrix
 |  |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
+| [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,4 +245,8 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
