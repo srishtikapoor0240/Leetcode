@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int sumOfUnique(int[] nums) {
         HashMap<Integer,Integer> h=new HashMap<>();
         for(int i=0;i<nums.length;i++)
@@ -18,5 +18,28 @@ class Solution {
                 sum+=i;
         }
         return sum;
+    }
+}*/
+
+// lesser space time
+
+class Solution {
+    public int sumOfUnique(int[] nums) {
+       int[] d = new int[101];
+        
+        
+        int t = 0;
+        for(int n: nums){
+            d[n] += 1;
+        }
+        
+        for(int r=1; r<101;  r++){
+           if(d[r]==1){
+               t += r;
+           }
+        }
+        
+        
+        return t;
     }
 }
