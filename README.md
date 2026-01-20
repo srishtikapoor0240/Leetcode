@@ -55,6 +55,7 @@
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/srishtikapoor0240/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/srishtikapoor0240/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -93,6 +94,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
