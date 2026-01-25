@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public boolean divisorGame(int n) {
         int c=1;
         while(n>1){
@@ -12,5 +12,11 @@ class Solution {
         }
         }
         return c%2==0;
+    }
+}*/
+
+class Solution{
+    public boolean divisorGame(int n){
+        return n%2==0;
     }
 }
