@@ -127,6 +127,7 @@
 | [0326-power-of-three](https://github.com/srishtikapoor0240/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/srishtikapoor0240/Leetcode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
@@ -177,6 +178,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishtikapoor0240/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/0338-counting-bits) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/srishtikapoor0240/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Enumeration
@@ -270,4 +272,12 @@
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
