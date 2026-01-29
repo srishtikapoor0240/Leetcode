@@ -65,6 +65,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/srishtikapoor0240/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2347-best-poker-hand](https://github.com/srishtikapoor0240/Leetcode/tree/master/2347-best-poker-hand) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/srishtikapoor0240/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/srishtikapoor0240/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
 |  |
@@ -108,6 +109,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2347-best-poker-hand](https://github.com/srishtikapoor0240/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/srishtikapoor0240/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/srishtikapoor0240/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2347-best-poker-hand](https://github.com/srishtikapoor0240/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/srishtikapoor0240/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/srishtikapoor0240/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
