@@ -54,6 +54,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/srishtikapoor0240/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
@@ -120,6 +121,7 @@
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/srishtikapoor0240/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -147,6 +149,7 @@
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/srishtikapoor0240/Leetcode/tree/master/0342-power-of-four) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -157,6 +160,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
