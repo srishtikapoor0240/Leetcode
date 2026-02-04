@@ -22,6 +22,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/srishtikapoor0240/Leetcode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/srishtikapoor0240/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/srishtikapoor0240/Leetcode/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/srishtikapoor0240/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@
 | [2347-best-poker-hand](https://github.com/srishtikapoor0240/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/srishtikapoor0240/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srishtikapoor0240/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/srishtikapoor0240/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [2347-best-poker-hand](https://github.com/srishtikapoor0240/Leetcode/tree/master/2347-best-poker-hand) |
 | [2351-first-letter-to-appear-twice](https://github.com/srishtikapoor0240/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/srishtikapoor0240/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/srishtikapoor0240/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
