@@ -37,6 +37,7 @@
 | [0015-3sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/srishtikapoor0240/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/srishtikapoor0240/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/srishtikapoor0240/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
@@ -188,6 +189,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/srishtikapoor0240/Leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -222,6 +224,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/srishtikapoor0240/Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
