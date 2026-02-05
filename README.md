@@ -79,6 +79,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0876-middle-of-the-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Binary Search
@@ -306,4 +307,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
