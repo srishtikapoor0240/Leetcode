@@ -8,7 +8,9 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+
+
+/*class Solution {
     public ListNode middleNode(ListNode head) {
         ListNode temp=head;
         int c=0;
@@ -26,5 +28,22 @@ class Solution {
 
         }
         return temp;
+    }
+}
+*/
+
+//OPTIMAL SOL USING SLOW FAST POINTER
+
+class Solution 
+{
+    public ListNode middleNode(ListNode head){
+        ListNode slow=head;
+        ListNode fast=head;
+
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
+        }
+        return slow;
     }
 }
