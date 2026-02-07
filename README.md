@@ -42,6 +42,7 @@
 | [0035-search-insert-position](https://github.com/srishtikapoor0240/Leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/srishtikapoor0240/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
+| [0057-insert-interval](https://github.com/srishtikapoor0240/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0119-pascals-triangle-ii) |
