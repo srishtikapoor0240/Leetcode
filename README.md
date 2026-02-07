@@ -59,6 +59,7 @@
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1200-minimum-absolute-difference](https://github.com/srishtikapoor0240/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -112,6 +113,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -131,6 +133,7 @@
 | [0217-contains-duplicate](https://github.com/srishtikapoor0240/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1200-minimum-absolute-difference](https://github.com/srishtikapoor0240/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -171,6 +174,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -300,6 +304,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Design
 |  |
@@ -327,4 +332,8 @@
 | [0203-remove-linked-list-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 <!---LeetCode Topics End-->
