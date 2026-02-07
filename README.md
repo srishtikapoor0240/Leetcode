@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/srishtikapoor0240/Leetcode/tree/master/0058-length-of-last-word) |
+| [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -108,6 +109,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishtikapoor0240/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/srishtikapoor0240/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/srishtikapoor0240/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
@@ -150,6 +152,7 @@
 | [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/srishtikapoor0240/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/srishtikapoor0240/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/srishtikapoor0240/Leetcode/tree/master/0326-power-of-three) |
