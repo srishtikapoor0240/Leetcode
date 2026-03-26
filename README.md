@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/srishtikapoor0240/Leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/srishtikapoor0240/Leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
@@ -86,6 +87,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/srishtikapoor0240/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/srishtikapoor0240/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
