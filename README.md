@@ -106,6 +106,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/srishtikapoor0240/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/srishtikapoor0240/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -163,6 +164,7 @@
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/srishtikapoor0240/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/srishtikapoor0240/Leetcode/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/srishtikapoor0240/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
