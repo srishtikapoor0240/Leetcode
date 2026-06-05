@@ -58,6 +58,7 @@
 | [0219-contains-duplicate-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/srishtikapoor0240/Leetcode/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/srishtikapoor0240/Leetcode/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
@@ -107,6 +108,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/srishtikapoor0240/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/srishtikapoor0240/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
@@ -145,6 +147,7 @@
 | [0015-3sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/srishtikapoor0240/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1200-minimum-absolute-difference](https://github.com/srishtikapoor0240/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -352,5 +356,6 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 <!---LeetCode Topics End-->
