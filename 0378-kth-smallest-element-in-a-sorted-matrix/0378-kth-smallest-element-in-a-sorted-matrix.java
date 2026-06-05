@@ -1,3 +1,4 @@
+//BRUTE FORCE 
 class Solution {
     public int kthSmallest(int[][] matrix, int k) {
         int c=0;
@@ -15,3 +16,9 @@ class Solution {
         return arr[k-1];
     }
 }
+
+/*class Solution {
+    public int kthSmallest(int[][] matrix, int k) {
+
+    }
+}*/
