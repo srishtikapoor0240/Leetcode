@@ -50,6 +50,7 @@
 | [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishtikapoor0240/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/srishtikapoor0240/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -331,6 +332,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/srishtikapoor0240/Leetcode/tree/master/0134-gas-station) |
 | [0410-split-array-largest-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1054-distant-barcodes](https://github.com/srishtikapoor0240/Leetcode/tree/master/1054-distant-barcodes) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
