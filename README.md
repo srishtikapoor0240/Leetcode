@@ -97,6 +97,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/srishtikapoor0240/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/srishtikapoor0240/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -127,6 +128,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/srishtikapoor0240/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/srishtikapoor0240/Leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/srishtikapoor0240/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -363,6 +365,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0876-middle-of-the-linked-list) |
