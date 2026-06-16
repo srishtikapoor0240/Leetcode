@@ -10,26 +10,18 @@
  */
 class Solution {
     public ListNode removeElements(ListNode head, int val) {
-        if(head==null)
-            return head;
-
-        //NEED A DUMMY NODE we cannot put PREV=NULL AS IT GIVES NULL POINTER EXCEPTION
-        ListNode dummy=new ListNode(0);
+        ListNode dummy=new ListNode (0);
         dummy.next=head;
         ListNode prev=dummy;
-        ListNode curr=head;
-
-        while(curr!=null){
-            if(curr.val==val){
-                
-                prev.next=curr.next;
-                
+        while(prev.next!=null)
+        {
+            if(prev.next.val==val){
+                prev.next=prev.next.next;
             }
             else{
-            prev=curr;
+                prev=prev.next;
             }
-            curr=curr.next;
-        }
+        }        
         return dummy.next;
     }
 }
