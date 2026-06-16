@@ -15,11 +15,11 @@ public class Solution {
         ListNode tempB=headB;
         int countA=0;
         int countB=0;
-        while(tempA.next!=null){
+        while(tempA!=null){
             countA++;
             tempA=tempA.next;
         }
-        while(tempB.next!=null){
+        while(tempB!=null){
             countB++;
             tempB=tempB.next;
         }
