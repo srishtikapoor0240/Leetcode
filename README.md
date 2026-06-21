@@ -398,4 +398,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1095-find-in-mountain-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/srishtikapoor0240/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
