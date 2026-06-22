@@ -38,6 +38,7 @@
 | [0225-implement-stack-using-queues](https://github.com/srishtikapoor0240/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srishtikapoor0240/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1408-string-matching-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1408-string-matching-in-an-array) |
+| [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/srishtikapoor0240/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -364,6 +366,7 @@
 | [0155-min-stack](https://github.com/srishtikapoor0240/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srishtikapoor0240/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srishtikapoor0240/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
 ## Brainteaser
 |  |
@@ -395,6 +398,7 @@
 | [0206-reverse-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -417,4 +421,12 @@
 | [1667-fix-names-in-a-table](https://github.com/srishtikapoor0240/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/srishtikapoor0240/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/srishtikapoor0240/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
