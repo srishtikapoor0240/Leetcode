@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -52,6 +53,7 @@
 | [0054-spiral-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/srishtikapoor0240/Leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/srishtikapoor0240/Leetcode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/srishtikapoor0240/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srishtikapoor0240/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -434,5 +436,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
