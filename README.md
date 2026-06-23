@@ -40,6 +40,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/srishtikapoor0240/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/srishtikapoor0240/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 ## Array
 |  |
@@ -370,6 +371,7 @@
 | [0155-min-stack](https://github.com/srishtikapoor0240/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/srishtikapoor0240/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srishtikapoor0240/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/srishtikapoor0240/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/srishtikapoor0240/Leetcode/tree/master/1603-design-parking-system) |
 ## Brainteaser
@@ -432,10 +434,12 @@
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/srishtikapoor0240/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/srishtikapoor0240/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
