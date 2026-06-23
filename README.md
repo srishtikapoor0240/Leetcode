@@ -38,6 +38,7 @@
 | [0225-implement-stack-using-queues](https://github.com/srishtikapoor0240/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/srishtikapoor0240/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 ## Array
 |  |
@@ -68,6 +69,7 @@
 | [0410-split-array-largest-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/srishtikapoor0240/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -429,4 +431,8 @@
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
