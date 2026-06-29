@@ -10,6 +10,7 @@
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/srishtikapoor0240/Leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/srishtikapoor0240/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/srishtikapoor0240/Leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0227-basic-calculator-ii) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/srishtikapoor0240/Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
