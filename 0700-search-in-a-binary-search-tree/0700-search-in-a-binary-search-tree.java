@@ -22,8 +22,7 @@ class Solution {
             return null;
         if(val==node.val)
             return node;
-        if(node.left==null && node.right== null )
-            return null;
+        
         if(val<node.val)
             return search(node.left,val);
         else if(val>node.val)
