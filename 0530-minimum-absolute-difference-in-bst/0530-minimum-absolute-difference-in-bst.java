@@ -48,7 +48,7 @@ class Solution {
         if(prev!=null){
             min=Math.min(min,node.val-prev);
         }
-         prev=node.val;
+        prev=node.val;
         inorder(node.right);
        
     }
