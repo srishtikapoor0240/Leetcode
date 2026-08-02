@@ -89,6 +89,7 @@
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srishtikapoor0240/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -217,6 +218,7 @@
 | [0342-power-of-four](https://github.com/srishtikapoor0240/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/srishtikapoor0240/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -280,6 +282,7 @@
 | [0338-counting-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/srishtikapoor0240/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1668-maximum-repeating-substring](https://github.com/srishtikapoor0240/Leetcode/tree/master/1668-maximum-repeating-substring) |
@@ -447,6 +450,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
