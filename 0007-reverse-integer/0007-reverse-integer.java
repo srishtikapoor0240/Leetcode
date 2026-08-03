@@ -1,25 +1,16 @@
 class Solution {
     public int reverse(int x) {
-        try{int i=0;
-        if(x>=0)
-        {
-            String s=Integer.toString(x);
-            StringBuilder st=new StringBuilder(s);
-            String str=st.reverse().toString();
-            i=Integer.parseInt(str);
+        int n=x;
+        
+        long rev=0;
+        while(n!=0){
+            int d=n%10;
+            rev=rev*10+d;
+            n/=10;
+
         }
-        if(x<0)
-        {
-            String s=Integer.toString(x);
-            StringBuilder st=new StringBuilder(s.substring(1));
-            String str="-"+st.reverse().toString();
-            i=Integer.parseInt(str);
-        }
-        return i;
-        }
-        catch (Exception e){
+        if (rev > Integer.MAX_VALUE || rev < Integer.MIN_VALUE)
             return 0;
-        }
-       
+        return (int)rev;
     }
 }
