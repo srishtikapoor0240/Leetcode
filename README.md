@@ -540,4 +540,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/srishtikapoor0240/Leetcode/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
