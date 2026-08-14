@@ -14,6 +14,7 @@
 | [0125-valid-palindrome](https://github.com/srishtikapoor0240/Leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/srishtikapoor0240/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0227-basic-calculator-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/srishtikapoor0240/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -169,6 +170,7 @@
 | [0169-majority-element](https://github.com/srishtikapoor0240/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srishtikapoor0240/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/srishtikapoor0240/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -197,6 +199,7 @@
 | [0015-3sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/srishtikapoor0240/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/srishtikapoor0240/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/srishtikapoor0240/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srishtikapoor0240/Leetcode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/srishtikapoor0240/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
