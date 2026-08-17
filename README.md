@@ -107,6 +107,7 @@
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/srishtikapoor0240/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1640-check-array-formation-through-concatenation](https://github.com/srishtikapoor0240/Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -185,6 +186,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/srishtikapoor0240/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1512-number-of-good-pairs](https://github.com/srishtikapoor0240/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1640-check-array-formation-through-concatenation](https://github.com/srishtikapoor0240/Leetcode/tree/master/1640-check-array-formation-through-concatenation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/srishtikapoor0240/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/srishtikapoor0240/Leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
