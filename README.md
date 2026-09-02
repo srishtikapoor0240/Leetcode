@@ -91,6 +91,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/srishtikapoor0240/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0526-beautiful-arrangement](https://github.com/srishtikapoor0240/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0575-distribute-candies](https://github.com/srishtikapoor0240/Leetcode/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/srishtikapoor0240/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
@@ -251,6 +252,7 @@
 | [0338-counting-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/srishtikapoor0240/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/srishtikapoor0240/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0526-beautiful-arrangement](https://github.com/srishtikapoor0240/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/srishtikapoor0240/Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -302,6 +304,7 @@
 | [0322-coin-change](https://github.com/srishtikapoor0240/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/srishtikapoor0240/Leetcode/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/srishtikapoor0240/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0526-beautiful-arrangement](https://github.com/srishtikapoor0240/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/srishtikapoor0240/Leetcode/tree/master/1025-divisor-game) |
@@ -428,6 +431,7 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0113-path-sum-ii) |
+| [0526-beautiful-arrangement](https://github.com/srishtikapoor0240/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/srishtikapoor0240/Leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -559,4 +563,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srishtikapoor0240/Leetcode/tree/master/0020-valid-parentheses) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/srishtikapoor0240/Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
