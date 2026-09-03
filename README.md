@@ -48,6 +48,7 @@
 | [0234-palindrome-linked-list](https://github.com/srishtikapoor0240/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/srishtikapoor0240/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0636-exclusive-time-of-functions](https://github.com/srishtikapoor0240/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/srishtikapoor0240/Leetcode/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/srishtikapoor0240/Leetcode/tree/master/1472-design-browser-history) |
@@ -93,6 +94,7 @@
 | [0503-next-greater-element-ii](https://github.com/srishtikapoor0240/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/srishtikapoor0240/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0575-distribute-candies](https://github.com/srishtikapoor0240/Leetcode/tree/master/0575-distribute-candies) |
+| [0636-exclusive-time-of-functions](https://github.com/srishtikapoor0240/Leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0704-binary-search](https://github.com/srishtikapoor0240/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/srishtikapoor0240/Leetcode/tree/master/0739-daily-temperatures) |
 | [0845-longest-mountain-in-array](https://github.com/srishtikapoor0240/Leetcode/tree/master/0845-longest-mountain-in-array) |
