@@ -388,6 +388,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srishtikapoor0240/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -403,6 +404,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srishtikapoor0240/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srishtikapoor0240/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -424,6 +426,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srishtikapoor0240/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -435,6 +438,7 @@
 | [0226-invert-binary-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/srishtikapoor0240/Leetcode/tree/master/0322-coin-change) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/srishtikapoor0240/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/srishtikapoor0240/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
